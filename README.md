@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/DannGTH/RyuuBotZ V14/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/DannGTH/RyuuBotZ V14/blob/v7.1/image/lol_1.jpg" alt="RyuuBotZ" width="100"/>
 
 
 </p>
