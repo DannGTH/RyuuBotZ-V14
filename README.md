@@ -4,11 +4,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="RYUUBOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RYUUBOT MULTI DEVICE" src="https://img.shields.io/badge/RyuuBotZ V14-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/DannGTH/RyuuBotZ V14"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DannGTH"><img title="Author" src="https://img.shields.io/badge/Author-DannGTH-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DannGTH/followers"><img title="Followers" src="https://img.shields.io/github/followers/DannGTH?color=red&style=flat-square"></a>
